@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dawson Adams
-- 👀 I’m interested in Web Development, and Software Design
-- 🌱 I’m currently obtaining a BCS at Texas A&M University - Corpus Christi
-- 💞️ I’m looking to collaborate on anything within my skill set
+-  I’m interested in Web Development, and Software Design
+-  I’m currently obtaining a BCS at Texas A&M University - Corpus Christi
+-  I’m looking to collaborate on anything within my skill set
 - 📫 How to reach me: dadams6@islander.tamucc.edu
 
 <!---
